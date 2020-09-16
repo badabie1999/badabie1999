@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <br>👋 Hi, I'm Charisa Sinphongphaisan.<br>
   <br> You can call me Beammie  <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://1.bp.blogspot.com/-w-QX6cdnW9Q/WDwG2NVuRZI/AAAAAAAD7vk/ELv7EgmzkPkmNgI90olyHPoz73X86CP3wCLcB/s1600/AS001828_10.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
 
