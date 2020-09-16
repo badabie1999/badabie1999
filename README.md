@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 <h3 align="left">
  <abc>
   <br>👋 Hi, I'm Charisa Sinphongphaisan.<br>
-  <br> You can call me Beammie  <br>
-  <br>
-    <img src="https://1.bp.blogspot.com/-w-QX6cdnW9Q/WDwG2NVuRZI/AAAAAAAD7vk/ELv7EgmzkPkmNgI90olyHPoz73X86CP3wCLcB/s1600/AS001828_10.gif" alt="Coder GIF" width="500" height="400">
+  <br> You can call me Beammie.  <br>
+  <br> I'm 21 years old. <br>
+  <br> My hobies are listen music, watching movies and surfing the interne. <br>
+  <br> My favorite singer is Halsey. <br>
+  <br> I love cat. <br>
+  <br>  <br>
+  <br> 
+    <br>
+    <img src="https://i.pinimg.com/originals/2e/ba/73/2eba73d5c3387b994b9b378dbca58672.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
 
